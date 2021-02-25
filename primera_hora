@@ -5,7 +5,7 @@
 
 # Leemos nuestros datos con la función read.table
 getwd()
-setwd("c:/ ")
+setwd("c:/ ruta ")
 
 datoslineal <- read.table("production.txt", header = TRUE)
 production$
